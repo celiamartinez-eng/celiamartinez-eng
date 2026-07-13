@@ -20,4 +20,4 @@ Coming soon:
 
 Coming soon:
 - Rocket Trajectory Simulator (python)
-- Passion Project
+- ARES rover (passion project ib)
